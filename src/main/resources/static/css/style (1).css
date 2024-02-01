@@ -346,3 +346,10 @@ main .logo {
 main .marketing {
   display: block;
 }
+.brand_img{
+  background-color: #f3ecec;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+
+}
